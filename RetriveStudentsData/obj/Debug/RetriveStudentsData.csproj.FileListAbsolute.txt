@@ -1,0 +1,7 @@
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\RetriveStudentsData\RetriveStudentsData\bin\Debug\RetriveStudentsData.exe.config
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\RetriveStudentsData\RetriveStudentsData\bin\Debug\RetriveStudentsData.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\RetriveStudentsData\RetriveStudentsData\bin\Debug\RetriveStudentsData.pdb
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\RetriveStudentsData\RetriveStudentsData\obj\Debug\RetriveStudentsData.csproj.AssemblyReference.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\RetriveStudentsData\RetriveStudentsData\obj\Debug\RetriveStudentsData.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\RetriveStudentsData\RetriveStudentsData\obj\Debug\RetriveStudentsData.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\RetriveStudentsData\RetriveStudentsData\obj\Debug\RetriveStudentsData.pdb

@@ -1,0 +1,7 @@
+Rainbow School
+Name   age Dept Batch Grade
+Ananth 18  Bio  2022  80.5
+Karthi 17  cse  2022  85.7
+Dinesh 18  cse  2022  89.4
+Arif   17  com  2022  90.3
+Dinesh 19  Bio  2022  92.4
